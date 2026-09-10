@@ -17,7 +17,7 @@
   />
 
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/allanguilhermecallanguilhermec/output/pacman-contribution-graph.svg"
   />
 
