@@ -4,3 +4,4 @@
 - 💻 **Atualmente estudando Python e JavaScript**
   
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/SEU_USUARIO)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://github.com/SEU_USUARIO)
